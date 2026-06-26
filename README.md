@@ -3,52 +3,58 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/harsh56845/leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/harsh56845/leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/harsh56845/leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/harsh56845/leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/harsh56845/leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/harsh56845/leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
