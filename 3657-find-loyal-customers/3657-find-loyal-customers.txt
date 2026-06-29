@@ -1,0 +1,9 @@
+# Write your MySQL query statement below
+SELECT customer_id 
+FROM customer_transactions 
+-- WHERE COUNT(transaction_type="purchase")/COUNT(transaction_type="refund")<20
+GROUP BY customer_id
+HAVING SUM(transaction_type='purchase')>2
+and DATEDIFF(max(transaction_date),min(transaction_date))>29
+and SUM(transaction_type='refund')/count(*) < 0.2
+ORDER BY customer_id

@@ -1,0 +1,13 @@
+# Write your MySQL query statement below
+with cte as (
+    select user_id,
+    count(tokens) as prompt_count,
+    round(avg(tokens),2) as avg_tokens
+    from prompts
+    group by user_id
+)
+
+select * from cte c
+where prompt_count>2 and 
+exists  (select 1 from prompts p where p.user_id=c.user_id and tokens>avg_tokens)
+order by avg_tokens desc

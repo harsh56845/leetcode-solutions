@@ -1,0 +1,12 @@
+# Write your MySQL query statement below
+-- SELECT w1.id
+-- FROM Weather w1
+-- WHERE w1.temperature > (SELECT w2.temperature FROM Weather w2 WHERE w2.recordDate=DATE_SUB(w1.recordDate,INTERVAL 1 DAY))''
+with temps as (
+    select id, temperature, recordDate,
+    lag(temperature) over(order by recordDate) as prev,
+    lag(recordDate) over(order by recordDate) as prevdate
+    from Weather
+)
+
+select id from temps where temperature>prev and DATEDIFF(recordDate,prevdate)=1

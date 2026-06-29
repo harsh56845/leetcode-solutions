@@ -1,0 +1,20 @@
+# Write your MySQL query statement below
+with cte as (
+    select s1.student_id,s1.subject,
+    (CASE WHEN s1.exam_date=(select min(s2.exam_date) from Scores s2 where s1.subject=s2.subject and s1.student_id=s2.student_id) THEN s1.score END)
+    as first_score,
+    (CASE WHEN s1.exam_date=(select max(s2.exam_date) from Scores s2 where s1.subject=s2.subject and s1.student_id=s2.student_id) THEN s1.score END)
+    as latest_score
+    FROM Scores s1
+)
+-- select * from cte;
+, 
+cte2 as(
+    select student_id,subject,sum(first_score) as first_score
+    ,sum(latest_score) as latest_score from cte
+    group by subject,student_id
+)
+
+select * from cte2
+where first_score<latest_score
+order by student_id,subject;

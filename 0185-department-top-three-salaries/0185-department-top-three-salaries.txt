@@ -1,0 +1,18 @@
+# Write your MySQL query statement below
+SELECT d.name as Department,e.name as Employee,e.Salary
+FROM Employee e
+JOIN Department d ON e.departmentId = d.id
+WHERE 3 > (
+    SELECT COUNT(DISTINCT e2.salary)
+    FROM Employee e2
+    WHERE e2.departmentId = e.departmentId
+      AND e2.salary > e.salary
+)
+-- WHERE e.salary IN (
+--     SELECT distinct salary 
+--     FROM Employee e2
+--     WHERE e2.departmentId = e.departmentId
+--     ORDER BY salary DESC
+--     LIMIT 3
+-- )
+-- ORDER BY d.name,e.salary DESC 

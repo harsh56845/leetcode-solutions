@@ -1,0 +1,12 @@
+-- # Write your MySQL query statement below
+-- select score, as DENSE_RANK() OVER (ORDER BY score DESC) from Scores
+-- order by score DESC
+
+-- SELECT score, DENSE_RANK() OVER (ORDER BY score DESC) FROM Scores 
+-- ORDER BY score DESC;
+
+SELECT S.score ,COUNT(S2.SCORE) as `rank` FROM SCORES S,
+(SELECT DISTINCT SCORE FROM SCORES)  S2
+WHERE S.SCORE<=S2.SCORE 
+GROUP BY S.ID 
+ORDER BY S.SCORE DESC;

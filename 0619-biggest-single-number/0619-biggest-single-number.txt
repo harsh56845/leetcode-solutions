@@ -1,0 +1,11 @@
+# Write your MySQL query statement below
+select(
+select num
+-- ,count(num)=1 as cnt
+-- if(max(count(num)=1)<>null,max(count(num)=1),null) as num
+from mynumbers
+group by num
+having count(num)=1 
+-- and num=max(num)
+order by num desc limit 1
+) as num
