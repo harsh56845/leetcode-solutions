@@ -1,0 +1,13 @@
+class Solution {
+    public int[] twoSum(int[] numbers, int target) {
+        int[] ans = {-1,-1};
+        int n = numbers.length;
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                int sum = numbers[i]+numbers[j];
+                if(sum==target) return new int[]{i+1,j+1};
+            }
+        }
+        return ans;
+    }
+}

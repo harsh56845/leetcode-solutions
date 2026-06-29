@@ -1,0 +1,26 @@
+# Write your MySQL query statement below
+with cte as (
+    SELECT *,
+    min(case when result="Positive" THEN test_date END) OVER(partition by patient_id) as PositiveDate
+    -- max(case when result="Negative" THEN test_date END) OVER(partition by patient_id) as Negative
+    FROM covid_tests
+    -- patients p
+    -- JOIN 
+    -- covid_tests ct
+    -- GROUP BY patient_id
+), cte2 as (
+    SELECT *,
+    min(case when result="Negative" and test_date>PositiveDate THEN test_date END) OVER(partition by patient_id) as NegativeDate
+    -- max(case when result="Negative" THEN test_date END) OVER(partition by patient_id) as Negative
+    FROM 
+    -- patients p
+    -- JOIN 
+    cte 
+)
+
+select  c.patient_id,p.patient_name,p.age,
+DATEDIFF(c.NegativeDate,c.PositiveDate) as recovery_time
+from cte2 c JOIN patients p on p.patient_id=c.patient_id
+WHERE NegativeDate is not null and PositiveDate is not null 
+group by c.patient_id
+order by recovery_time,patient_name;

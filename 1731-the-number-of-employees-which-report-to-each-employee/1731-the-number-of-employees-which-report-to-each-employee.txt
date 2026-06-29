@@ -1,0 +1,12 @@
+# Write your MySQL query statement below
+select e1.employee_id,e1.name, 
+(select count(*) from Employees e2 where e1.employee_id=e2.reports_to
+group by e2.reports_to) as reports_count,
+-- ceil((select sum(age)/count(*) from Employees e2 where e1.employee_id=e2.reports_to
+ROUND((select avg(age) from Employees e2 where e1.employee_id=e2.reports_to
+group by e2.reports_to),0) as average_age
+from Employees e1
+where exists (select 1 from Employees e2 where e1.employee_id=e2.reports_to)
+having reports_count is not null
+order by employee_id 
+-- order by na/ desc
