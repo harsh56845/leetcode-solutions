@@ -597,6 +597,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/harsh56845/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harsh56845/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harsh56845/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh56845/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -891,6 +892,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/harsh56845/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/harsh56845/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harsh56845/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harsh56845/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harsh56845/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2762-continuous-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
@@ -1016,6 +1018,7 @@
 | [1154-day-of-the-year](https://github.com/harsh56845/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/harsh56845/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/harsh56845/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harsh56845/leetcode-solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1446-consecutive-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harsh56845/leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
