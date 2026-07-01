@@ -634,6 +634,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/harsh56845/leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3853-merge-close-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/3853-merge-close-characters/) | Medium |
+| [3945-digit-frequency-score](https://github.com/harsh56845/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -743,6 +744,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/harsh56845/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3945-digit-frequency-score](https://github.com/harsh56845/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
