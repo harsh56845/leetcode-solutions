@@ -1017,6 +1017,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/harsh56845/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/harsh56845/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/harsh56845/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
