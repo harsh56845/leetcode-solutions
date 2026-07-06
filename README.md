@@ -102,6 +102,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh56845/leetcode-solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/harsh56845/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/harsh56845/leetcode-solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/harsh56845/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harsh56845/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/harsh56845/leetcode-solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/harsh56845/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -927,6 +928,7 @@
 | [0905-sort-array-by-parity](https://github.com/harsh56845/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/harsh56845/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harsh56845/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh56845/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
