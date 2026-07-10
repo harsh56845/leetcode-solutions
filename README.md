@@ -3,8 +3,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/harsh56845/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/harsh56845/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
@@ -84,6 +84,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0812-largest-triangle-area](https://github.com/harsh56845/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/harsh56845/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/harsh56845/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/harsh56845/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/harsh56845/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -214,8 +215,8 @@
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh56845/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh56845/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/harsh56845/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
@@ -232,8 +233,8 @@
 | [0401-binary-watch](https://github.com/harsh56845/leetcode-solutions/tree/main/0401-binary-watch/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harsh56845/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -275,13 +276,13 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/harsh56845/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harsh56845/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harsh56845/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/harsh56845/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -296,8 +297,8 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/harsh56845/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/harsh56845/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/harsh56845/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -314,6 +315,7 @@
 | [0476-number-complement](https://github.com/harsh56845/leetcode-solutions/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harsh56845/leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0832-flipping-an-image](https://github.com/harsh56845/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/harsh56845/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harsh56845/leetcode-solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
@@ -327,29 +329,29 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/harsh56845/leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harsh56845/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/harsh56845/leetcode-solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/harsh56845/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -368,19 +370,19 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harsh56845/leetcode-solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0561-array-partition](https://github.com/harsh56845/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh56845/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/harsh56845/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harsh56845/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/harsh56845/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/harsh56845/leetcode-solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/harsh56845/leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
@@ -442,8 +444,8 @@
 | [3497-analyze-subscription-conversion](https://github.com/harsh56845/leetcode-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3586-find-covid-recovery-patients](https://github.com/harsh56845/leetcode-solutions/tree/main/3586-find-covid-recovery-patients/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/harsh56845/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/harsh56845/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -457,8 +459,8 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/harsh56845/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/harsh56845/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/harsh56845/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -470,8 +472,8 @@
 | [2043-simple-bank-system](https://github.com/harsh56845/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [3484-design-spreadsheet](https://github.com/harsh56845/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harsh56845/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/harsh56845/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/harsh56845/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -484,8 +486,8 @@
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harsh56845/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/harsh56845/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -512,21 +514,21 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/harsh56845/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh56845/leetcode-solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh56845/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harsh56845/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/harsh56845/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -553,13 +555,13 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/harsh56845/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/harsh56845/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/harsh56845/leetcode-solutions/tree/master/0012-integer-to-roman) |
@@ -639,8 +641,8 @@
 | [3853-merge-close-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/3853-merge-close-characters/) | Medium |
 | [3945-digit-frequency-score](https://github.com/harsh56845/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harsh56845/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harsh56845/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -649,16 +651,16 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harsh56845/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2762-continuous-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/harsh56845/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/harsh56845/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harsh56845/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/harsh56845/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -679,8 +681,8 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harsh56845/leetcode-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harsh56845/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/harsh56845/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
@@ -752,13 +754,14 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/harsh56845/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/harsh56845/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/harsh56845/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/harsh56845/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/harsh56845/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/harsh56845/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0832-flipping-an-image](https://github.com/harsh56845/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -774,40 +777,40 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/harsh56845/leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh56845/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/harsh56845/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harsh56845/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/harsh56845/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2762-continuous-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harsh56845/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2762-continuous-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/harsh56845/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/harsh56845/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/harsh56845/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -825,24 +828,24 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harsh56845/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/harsh56845/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/harsh56845/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2762-continuous-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/harsh56845/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/harsh56845/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -854,16 +857,17 @@
 | [1922-count-good-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Shell
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0195-tenth-line](https://github.com/harsh56845/leetcode-solutions/tree/main/0195-tenth-line/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/harsh56845/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/harsh56845/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/harsh56845/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/harsh56845/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/harsh56845/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harsh56845/leetcode-solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
@@ -893,8 +897,8 @@
 | [3838-weighted-word-mapping](https://github.com/harsh56845/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh56845/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -907,8 +911,8 @@
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/harsh56845/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/harsh56845/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/harsh56845/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/harsh56845/leetcode-solutions/tree/main/0018-4sum/) | Medium |
@@ -953,8 +957,8 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/harsh56845/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/harsh56845/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
@@ -975,8 +979,8 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harsh56845/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harsh56845/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/harsh56845/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/harsh56845/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
@@ -1080,15 +1084,15 @@
 | [3838-weighted-word-mapping](https://github.com/harsh56845/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3853-merge-close-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/3853-merge-close-characters/) | Medium |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harsh56845/leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harsh56845/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/harsh56845/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -1105,15 +1109,15 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/harsh56845/leetcode-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/harsh56845/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/harsh56845/leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harsh56845/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harsh56845/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/harsh56845/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/harsh56845/leetcode-solutions/tree/main/0015-3sum/) | Medium |
@@ -1150,6 +1154,7 @@
 | [0633-sum-of-square-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/harsh56845/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/harsh56845/leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/harsh56845/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harsh56845/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/harsh56845/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
@@ -1174,12 +1179,12 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/harsh56845/leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Unknown
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2627-debounce](https://github.com/harsh56845/leetcode-solutions/tree/main/2627-debounce/) | Medium |
 | [2703-return-length-of-arguments-passed](https://github.com/harsh56845/leetcode-solutions/tree/main/2703-return-length-of-arguments-passed/) | Easy |
 | [2723-add-two-promises](https://github.com/harsh56845/leetcode-solutions/tree/main/2723-add-two-promises/) | Easy |
