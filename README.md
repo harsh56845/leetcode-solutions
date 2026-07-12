@@ -107,6 +107,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harsh56845/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/harsh56845/leetcode-solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/harsh56845/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harsh56845/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -601,6 +602,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/harsh56845/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harsh56845/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harsh56845/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh56845/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -935,6 +937,7 @@
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/harsh56845/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harsh56845/leetcode-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh56845/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
