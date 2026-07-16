@@ -1,8 +1,11 @@
 class Solution(object):
     def gcd(self,a,b):
-        if(b==0):
+            while b:
+                a,b = b,a%b
             return a
-        return self.gcd(b,a%b)
+        # if(b==0):
+        #     return a
+        # return self.gcd(b,a%b)
 
     def gcdSum(self, nums):
         n = len(nums)
