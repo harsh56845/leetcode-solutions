@@ -213,6 +213,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/harsh56845/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh56845/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh56845/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Backtracking
@@ -755,6 +756,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/harsh56845/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3945-digit-frequency-score](https://github.com/harsh56845/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
@@ -808,6 +810,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harsh56845/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
@@ -899,6 +902,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/harsh56845/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh56845/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sliding Window
 |  |
@@ -961,6 +965,7 @@
 | [3606-coupon-code-validator](https://github.com/harsh56845/leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/harsh56845/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -1183,6 +1188,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/harsh56845/leetcode-solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
