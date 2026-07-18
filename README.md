@@ -193,6 +193,7 @@
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harsh56845/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3356-zero-array-transformation-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/harsh56845/leetcode-solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
@@ -274,6 +275,7 @@
 | [2540-minimum-common-value](https://github.com/harsh56845/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh56845/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3143-maximum-points-inside-the-square](https://github.com/harsh56845/leetcode-solutions/tree/main/3143-maximum-points-inside-the-square/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/harsh56845/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -351,6 +353,7 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Counting
 |  |
@@ -369,6 +372,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/harsh56845/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harsh56845/leetcode-solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -631,6 +635,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/harsh56845/leetcode-solutions/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harsh56845/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3484-design-spreadsheet](https://github.com/harsh56845/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/harsh56845/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
@@ -749,6 +754,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harsh56845/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -810,6 +816,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harsh56845/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -834,6 +841,7 @@
 | [2438-range-product-queries-of-powers](https://github.com/harsh56845/leetcode-solutions/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/harsh56845/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/harsh56845/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
