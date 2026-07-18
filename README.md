@@ -137,6 +137,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh56845/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/harsh56845/leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harsh56845/leetcode-solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harsh56845/leetcode-solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -735,6 +736,7 @@
 | [1840-maximum-building-height](https://github.com/harsh56845/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/harsh56845/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -806,6 +808,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
