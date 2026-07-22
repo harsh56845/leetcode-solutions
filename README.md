@@ -625,6 +625,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2325-decode-the-message](https://github.com/harsh56845/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2540-minimum-common-value](https://github.com/harsh56845/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/harsh56845/leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2615-sum-of-distances](https://github.com/harsh56845/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -1080,6 +1081,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2325-decode-the-message](https://github.com/harsh56845/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harsh56845/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/harsh56845/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
