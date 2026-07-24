@@ -388,6 +388,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harsh56845/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/harsh56845/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Database
 |  |
 | ------- |
@@ -477,6 +478,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/harsh56845/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/harsh56845/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/harsh56845/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/harsh56845/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2043-simple-bank-system](https://github.com/harsh56845/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [3484-design-spreadsheet](https://github.com/harsh56845/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 ## Divide and Conquer
@@ -855,6 +857,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/harsh56845/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/harsh56845/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/harsh56845/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2762-continuous-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Quickselect
 |  |
