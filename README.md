@@ -74,6 +74,7 @@
 | [0561-array-partition](https://github.com/harsh56845/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0598-range-addition-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/harsh56845/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/harsh56845/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/harsh56845/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/harsh56845/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -723,6 +724,7 @@
 | [0492-construct-the-rectangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/harsh56845/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harsh56845/leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
@@ -955,6 +957,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/harsh56845/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/harsh56845/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/harsh56845/leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/harsh56845/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
