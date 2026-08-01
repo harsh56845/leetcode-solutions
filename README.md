@@ -66,6 +66,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/harsh56845/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/harsh56845/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -516,6 +517,7 @@
 | [0213-house-robber-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/harsh56845/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/harsh56845/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/harsh56845/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
@@ -725,6 +727,7 @@
 | [0396-rotate-function](https://github.com/harsh56845/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harsh56845/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/harsh56845/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
@@ -884,6 +887,7 @@
 | [0234-palindrome-linked-list](https://github.com/harsh56845/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/harsh56845/leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/harsh56845/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -1234,4 +1238,8 @@
 | [2888-reshape-data-concatenate](https://github.com/harsh56845/leetcode-solutions/tree/main/2888-reshape-data-concatenate/) | Easy |
 | [3657-find-loyal-customers](https://github.com/harsh56845/leetcode-solutions/tree/main/3657-find-loyal-customers/) | Medium |
 | [3793-find-users-with-high-token-usage](https://github.com/harsh56845/leetcode-solutions/tree/main/3793-find-users-with-high-token-usage/) | Easy |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
