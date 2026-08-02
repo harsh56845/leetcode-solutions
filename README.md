@@ -90,6 +90,7 @@
 | [0867-transpose-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/harsh56845/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/harsh56845/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/harsh56845/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harsh56845/leetcode-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -522,6 +523,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/harsh56845/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/harsh56845/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/harsh56845/leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0877-stone-game](https://github.com/harsh56845/leetcode-solutions/tree/master/0877-stone-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/harsh56845/leetcode-solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harsh56845/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harsh56845/leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -737,6 +739,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/harsh56845/leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0788-rotated-digits](https://github.com/harsh56845/leetcode-solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0812-largest-triangle-area](https://github.com/harsh56845/leetcode-solutions/tree/main/0812-largest-triangle-area/) | Easy |
+| [0877-stone-game](https://github.com/harsh56845/leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1154-day-of-the-year](https://github.com/harsh56845/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh56845/leetcode-solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -1242,4 +1245,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/harsh56845/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
