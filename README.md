@@ -534,6 +534,7 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/harsh56845/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Geometry
 |  |
@@ -774,6 +775,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
