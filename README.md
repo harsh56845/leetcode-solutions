@@ -57,6 +57,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/harsh56845/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/harsh56845/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/harsh56845/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/harsh56845/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/harsh56845/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -317,6 +318,7 @@
 | [0190-reverse-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/harsh56845/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0260-single-number-iii](https://github.com/harsh56845/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/harsh56845/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/harsh56845/leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
