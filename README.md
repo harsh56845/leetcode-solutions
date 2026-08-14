@@ -648,6 +648,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsh56845/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/harsh56845/leetcode-solutions/tree/main/3143-maximum-points-inside-the-square/) | Medium |
@@ -953,6 +954,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harsh56845/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harsh56845/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2762-continuous-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsh56845/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/harsh56845/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Sorting
@@ -1118,6 +1120,7 @@
 | [2942-find-words-containing-character](https://github.com/harsh56845/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsh56845/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
