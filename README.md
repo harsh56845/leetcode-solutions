@@ -485,6 +485,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/harsh56845/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/harsh56845/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/harsh56845/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/harsh56845/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harsh56845/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0705-design-hashset](https://github.com/harsh56845/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/harsh56845/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -582,6 +583,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/harsh56845/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/harsh56845/leetcode-solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/harsh56845/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Table
@@ -615,6 +617,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/harsh56845/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/harsh56845/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh56845/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -1067,6 +1070,7 @@
 | [0412-fizz-buzz](https://github.com/harsh56845/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/harsh56845/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0500-keyboard-row](https://github.com/harsh56845/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/harsh56845/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harsh56845/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
