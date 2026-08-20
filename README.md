@@ -191,6 +191,7 @@
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/harsh56845/leetcode-solutions/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harsh56845/leetcode-solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harsh56845/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3143-maximum-points-inside-the-square](https://github.com/harsh56845/leetcode-solutions/tree/main/3143-maximum-points-inside-the-square/) | Medium |
@@ -936,6 +937,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harsh56845/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2810-faulty-keyboard](https://github.com/harsh56845/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harsh56845/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3100-water-bottles-ii/) | Medium |
 | [3248-snake-in-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
