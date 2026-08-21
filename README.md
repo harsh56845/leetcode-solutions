@@ -334,6 +334,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/harsh56845/leetcode-solutions/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/harsh56845/leetcode-solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/harsh56845/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/harsh56845/leetcode-solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -760,6 +761,7 @@
 | [1323-maximum-69-number](https://github.com/harsh56845/leetcode-solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/harsh56845/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1390-four-divisors](https://github.com/harsh56845/leetcode-solutions/tree/main/1390-four-divisors/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/harsh56845/leetcode-solutions/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1518-water-bottles](https://github.com/harsh56845/leetcode-solutions/tree/main/1518-water-bottles/) | Easy |
