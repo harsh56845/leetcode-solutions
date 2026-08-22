@@ -792,6 +792,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harsh56845/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harsh56845/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
