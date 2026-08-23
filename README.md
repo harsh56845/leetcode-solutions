@@ -569,6 +569,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/harsh56845/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harsh56845/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/harsh56845/leetcode-solutions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harsh56845/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harsh56845/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -772,6 +773,7 @@
 | [1840-maximum-building-height](https://github.com/harsh56845/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
+| [1927-sum-game](https://github.com/harsh56845/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/harsh56845/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -1110,6 +1112,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/harsh56845/leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1813-sentence-similarity-iii](https://github.com/harsh56845/leetcode-solutions/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/harsh56845/leetcode-solutions/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harsh56845/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -1266,4 +1269,5 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harsh56845/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/harsh56845/leetcode-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
