@@ -779,6 +779,7 @@
 | [2235-add-two-integers](https://github.com/harsh56845/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2469-convert-the-temperature](https://github.com/harsh56845/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/2541-minimum-operations-to-make-array-equal-ii/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/harsh56845/leetcode-solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harsh56845/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
