@@ -1124,6 +1124,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2315-count-asterisks](https://github.com/harsh56845/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/harsh56845/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harsh56845/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
