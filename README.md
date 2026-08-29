@@ -312,6 +312,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harsh56845/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/harsh56845/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/harsh56845/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -724,6 +725,7 @@
 | [0009-palindrome-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/harsh56845/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/harsh56845/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/harsh56845/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/harsh56845/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/harsh56845/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/harsh56845/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
