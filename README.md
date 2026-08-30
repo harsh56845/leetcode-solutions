@@ -151,6 +151,7 @@
 | [2043-simple-bank-system](https://github.com/harsh56845/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harsh56845/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/harsh56845/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/harsh56845/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -574,6 +575,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harsh56845/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harsh56845/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/harsh56845/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/harsh56845/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harsh56845/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/2541-minimum-operations-to-make-array-equal-ii/) | Medium |
