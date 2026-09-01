@@ -619,6 +619,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/harsh56845/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/harsh56845/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -963,6 +964,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/harsh56845/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/harsh56845/leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/harsh56845/leetcode-solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -1080,6 +1082,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harsh56845/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/harsh56845/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/harsh56845/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/harsh56845/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/harsh56845/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0500-keyboard-row](https://github.com/harsh56845/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/harsh56845/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
