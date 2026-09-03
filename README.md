@@ -225,6 +225,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/harsh56845/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh56845/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh56845/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Backtracking
@@ -807,6 +808,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/harsh56845/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/harsh56845/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
