@@ -228,6 +228,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/harsh56845/leetcode-solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh56845/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Backtracking
 |  |
@@ -891,6 +892,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
 |  |
 | ------- |
