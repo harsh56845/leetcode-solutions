@@ -583,6 +583,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harsh56845/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/2541-minimum-operations-to-make-array-equal-ii/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harsh56845/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2864-maximum-odd-binary-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/harsh56845/leetcode-solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harsh56845/leetcode-solutions/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
@@ -789,6 +790,7 @@
 | [2469-convert-the-temperature](https://github.com/harsh56845/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/2541-minimum-operations-to-make-array-equal-ii/) | Medium |
+| [2864-maximum-odd-binary-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/harsh56845/leetcode-solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/harsh56845/leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1146,6 +1148,7 @@
 | [2833-furthest-point-from-origin](https://github.com/harsh56845/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2864-maximum-odd-binary-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/harsh56845/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
