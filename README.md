@@ -207,6 +207,7 @@
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/harsh56845/leetcode-solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harsh56845/leetcode-solutions/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harsh56845/leetcode-solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/harsh56845/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/harsh56845/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/harsh56845/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/harsh56845/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -548,6 +549,7 @@
 | ------- |
 | [1534-count-good-triplets](https://github.com/harsh56845/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harsh56845/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Geometry
 |  |
@@ -671,6 +673,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harsh56845/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/harsh56845/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/harsh56845/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/harsh56845/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/harsh56845/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -926,6 +929,7 @@
 | [0509-fibonacci-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/harsh56845/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Shell
 |  |
 | ------- |
