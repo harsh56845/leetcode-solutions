@@ -211,6 +211,7 @@
 | [3484-design-spreadsheet](https://github.com/harsh56845/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/harsh56845/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/harsh56845/leetcode-solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsh56845/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3606-coupon-code-validator](https://github.com/harsh56845/leetcode-solutions/tree/main/3606-coupon-code-validator/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -806,6 +807,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsh56845/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harsh56845/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
