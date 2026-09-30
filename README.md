@@ -1062,6 +1062,7 @@
 | [0503-next-greater-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harsh56845/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/harsh56845/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -1121,6 +1122,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/harsh56845/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harsh56845/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/harsh56845/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/harsh56845/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -1304,5 +1306,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harsh56845/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
