@@ -1060,6 +1060,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/harsh56845/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0856-score-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harsh56845/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1115,6 +1116,7 @@
 | [0796-rotate-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/harsh56845/leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/harsh56845/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0856-score-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/harsh56845/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/harsh56845/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/harsh56845/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
@@ -1306,6 +1308,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harsh56845/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
