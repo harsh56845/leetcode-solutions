@@ -571,6 +571,7 @@
 | [0409-longest-palindrome](https://github.com/harsh56845/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/harsh56845/leetcode-solutions/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh56845/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/harsh56845/leetcode-solutions/tree/main/1323-maximum-69-number/) | Easy |
@@ -1061,6 +1062,7 @@
 | [0496-next-greater-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0856-score-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh56845/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harsh56845/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1119,6 +1121,7 @@
 | [0856-score-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/harsh56845/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/harsh56845/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh56845/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/harsh56845/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -1309,6 +1312,7 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsh56845/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harsh56845/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
