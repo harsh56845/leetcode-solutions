@@ -102,6 +102,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/harsh56845/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harsh56845/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/harsh56845/leetcode-solutions/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
+| [1046-last-stone-weight](https://github.com/harsh56845/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/harsh56845/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/harsh56845/leetcode-solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -695,6 +696,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harsh56845/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/harsh56845/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harsh56845/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
