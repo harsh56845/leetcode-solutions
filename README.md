@@ -597,6 +597,7 @@
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/harsh56845/leetcode-solutions/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harsh56845/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Function
 |  |
 | ------- |
@@ -817,6 +818,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/harsh56845/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harsh56845/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harsh56845/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harsh56845/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
