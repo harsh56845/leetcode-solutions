@@ -152,6 +152,7 @@
 | [2043-simple-bank-system](https://github.com/harsh56845/leetcode-solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harsh56845/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harsh56845/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harsh56845/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -287,6 +288,7 @@
 | [1539-kth-missing-positive-number](https://github.com/harsh56845/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harsh56845/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh56845/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harsh56845/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/harsh56845/leetcode-solutions/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2540-minimum-common-value](https://github.com/harsh56845/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh56845/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -1034,6 +1036,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/harsh56845/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harsh56845/leetcode-solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/harsh56845/leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harsh56845/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harsh56845/leetcode-solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2126-destroying-asteroids](https://github.com/harsh56845/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harsh56845/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
