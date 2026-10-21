@@ -1199,6 +1199,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/harsh56845/leetcode-solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/harsh56845/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3853-merge-close-characters](https://github.com/harsh56845/leetcode-solutions/tree/main/3853-merge-close-characters/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/harsh56845/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## String Matching
 |  |
