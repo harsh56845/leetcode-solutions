@@ -66,6 +66,7 @@
 | [0396-rotate-function](https://github.com/harsh56845/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harsh56845/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/harsh56845/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/harsh56845/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -763,6 +764,7 @@
 | [0396-rotate-function](https://github.com/harsh56845/leetcode-solutions/tree/main/0396-rotate-function/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harsh56845/leetcode-solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/harsh56845/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/harsh56845/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/harsh56845/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/harsh56845/leetcode-solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/harsh56845/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
