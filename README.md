@@ -803,6 +803,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/harsh56845/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2409-count-days-spent-together](https://github.com/harsh56845/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/harsh56845/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/2541-minimum-operations-to-make-array-equal-ii/) | Medium |
@@ -1173,6 +1174,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2315-count-asterisks](https://github.com/harsh56845/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/harsh56845/leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2409-count-days-spent-together](https://github.com/harsh56845/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harsh56845/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/harsh56845/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
