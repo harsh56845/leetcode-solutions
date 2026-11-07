@@ -361,6 +361,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/harsh56845/leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 ## Breadth-First Search
 |  |
@@ -803,6 +804,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/harsh56845/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/harsh56845/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/harsh56845/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -1296,6 +1298,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harsh56845/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh56845/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harsh56845/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/harsh56845/leetcode-solutions/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2540-minimum-common-value](https://github.com/harsh56845/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh56845/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
