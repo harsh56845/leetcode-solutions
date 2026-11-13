@@ -605,6 +605,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harsh56845/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harsh56845/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Function
 |  |
 | ------- |
@@ -834,6 +835,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harsh56845/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/harsh56845/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harsh56845/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harsh56845/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harsh56845/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/harsh56845/leetcode-solutions/tree/master/3894-traffic-signal-color) |
