@@ -209,6 +209,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3356-zero-array-transformation-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/harsh56845/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/harsh56845/leetcode-solutions/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/harsh56845/leetcode-solutions/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harsh56845/leetcode-solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
@@ -917,6 +918,7 @@
 | [2615-sum-of-distances](https://github.com/harsh56845/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/harsh56845/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -1012,6 +1014,7 @@
 | [2762-continuous-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsh56845/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/harsh56845/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/harsh56845/leetcode-solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Sorting
 |  |
