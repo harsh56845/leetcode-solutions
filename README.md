@@ -981,6 +981,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh56845/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harsh56845/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harsh56845/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2810-faulty-keyboard](https://github.com/harsh56845/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
@@ -1179,6 +1180,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/harsh56845/leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2315-count-asterisks](https://github.com/harsh56845/leetcode-solutions/tree/master/2315-count-asterisks) |
