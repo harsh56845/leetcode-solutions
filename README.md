@@ -202,6 +202,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harsh56845/leetcode-solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3143-maximum-points-inside-the-square](https://github.com/harsh56845/leetcode-solutions/tree/main/3143-maximum-points-inside-the-square/) | Medium |
 | [3151-special-array-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3151-special-array-i/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3248-snake-in-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harsh56845/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -685,6 +686,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3143-maximum-points-inside-the-square](https://github.com/harsh56845/leetcode-solutions/tree/main/3143-maximum-points-inside-the-square/) | Medium |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/harsh56845/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
