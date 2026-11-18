@@ -171,6 +171,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/harsh56845/leetcode-solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/harsh56845/leetcode-solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2418-sort-the-people](https://github.com/harsh56845/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/harsh56845/leetcode-solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2438-range-product-queries-of-powers](https://github.com/harsh56845/leetcode-solutions/tree/main/2438-range-product-queries-of-powers/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harsh56845/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -674,6 +675,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/harsh56845/leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2325-decode-the-message](https://github.com/harsh56845/leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2418-sort-the-people](https://github.com/harsh56845/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/harsh56845/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/harsh56845/leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2615-sum-of-distances](https://github.com/harsh56845/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -1059,6 +1061,7 @@
 | [2126-destroying-asteroids](https://github.com/harsh56845/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harsh56845/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2418-sort-the-people](https://github.com/harsh56845/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/harsh56845/leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harsh56845/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/harsh56845/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -1188,6 +1191,7 @@
 | [2315-count-asterisks](https://github.com/harsh56845/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/harsh56845/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2409-count-days-spent-together](https://github.com/harsh56845/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/harsh56845/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harsh56845/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/harsh56845/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
