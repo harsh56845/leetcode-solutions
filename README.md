@@ -182,6 +182,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/harsh56845/leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harsh56845/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harsh56845/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/harsh56845/leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/harsh56845/leetcode-solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2615-sum-of-distances](https://github.com/harsh56845/leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -599,6 +600,7 @@
 | [2126-destroying-asteroids](https://github.com/harsh56845/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harsh56845/leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/2541-minimum-operations-to-make-array-equal-ii/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harsh56845/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/harsh56845/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/harsh56845/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1063,6 +1065,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2418-sort-the-people](https://github.com/harsh56845/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/harsh56845/leetcode-solutions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harsh56845/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/harsh56845/leetcode-solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/harsh56845/leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh56845/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
