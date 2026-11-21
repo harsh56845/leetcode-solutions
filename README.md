@@ -1214,6 +1214,7 @@
 | [3248-snake-in-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/harsh56845/leetcode-solutions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3330-find-the-original-typed-string-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3330-find-the-original-typed-string-i/) | Easy |
+| [3340-check-balanced-string](https://github.com/harsh56845/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3484-design-spreadsheet](https://github.com/harsh56845/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
