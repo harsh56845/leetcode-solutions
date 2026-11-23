@@ -1187,6 +1187,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harsh56845/leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/harsh56845/leetcode-solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harsh56845/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/harsh56845/leetcode-solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/harsh56845/leetcode-solutions/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
