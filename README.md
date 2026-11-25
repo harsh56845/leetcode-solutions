@@ -992,6 +992,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/harsh56845/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harsh56845/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harsh56845/leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2810-faulty-keyboard](https://github.com/harsh56845/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
@@ -1109,6 +1110,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsh56845/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harsh56845/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harsh56845/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -1199,6 +1201,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/harsh56845/leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2315-count-asterisks](https://github.com/harsh56845/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/harsh56845/leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2390-removing-stars-from-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/harsh56845/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/harsh56845/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/harsh56845/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
