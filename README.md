@@ -832,6 +832,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/harsh56845/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harsh56845/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/harsh56845/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/harsh56845/leetcode-solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/harsh56845/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -1001,6 +1002,7 @@
 | [3100-water-bottles-ii](https://github.com/harsh56845/leetcode-solutions/tree/main/3100-water-bottles-ii/) | Medium |
 | [3248-snake-in-matrix](https://github.com/harsh56845/leetcode-solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/harsh56845/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/harsh56845/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/harsh56845/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
